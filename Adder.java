@@ -25,6 +25,7 @@ public static void main(String args[])
 {
  //Adder a=new Adder(); 
  System.out.println(Adder.add(2,4));
+ System.out.println(Adder.add(12,42));
  System.out.println(Adder.add(2.5f,4.9f));
  System.out.println(Adder.add(8,3,7));
  System.out.println(Adder.add(6.4f,7.2f,6.3f));
